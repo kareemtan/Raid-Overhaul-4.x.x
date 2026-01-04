@@ -1,0 +1,6 @@
+<Solution>
+    <Project Path="FikaCompat/RO-FikaCompat.csproj" />
+    <Project Path="Plugin/RO-Plugin.csproj" />
+    <Project Path="Prepatch/RO-Prepatch.csproj" />
+    <Project Path="Server/RO-Server.csproj" />
+</Solution>

@@ -1,0 +1,24 @@
+{
+  "6621b1e0bd80eeb4de0c9ed8": {
+    "ItemToClone": "ARMOR_HEXGRID",
+    "OverrideProperties": {
+      "Prefab": {
+        "path": "ArmoredVests/legion_armor.bundle",
+        "rcid": ""
+      },
+      "Height": 3,
+      "Width": 3
+    },
+    "LocalePush": {
+      "en": {
+        "name": "Legions Armor (Carrion)",
+        "shortName": "Carrion",
+        "description": "This custom plate carrier is worn by the mysterious Legion. Nicknamed `Carrion` due to the likelihood you will find this being worn in the midst of the bloodiest battles."
+      }
+    },
+    "HandbookParent": "BodyArmor",
+    "HandbookPrice": 209999,
+    "CloneToFilters": true
+  }
+}
+
