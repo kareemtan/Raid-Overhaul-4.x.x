@@ -266,7 +266,7 @@ public class ROHelpers(
         var presetMap = new SortedDictionary<string, Preset>();
         var items = databaseService.GetItems();
         var locales = localeService.GetLocaleDb();
-        var defaultPresets = presetHelper.GetDefaultPresets().Values;
+        var defaultPresets = presetHelper.GetAllPresets();
 
         foreach (var (itemId, data) in items)
         {
