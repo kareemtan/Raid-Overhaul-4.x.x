@@ -7,8 +7,8 @@ using RaidOverhaul.FikaModule.Components;
 
 [assembly: AssemblyTitle("Raid Overhaul Fika Addon")]
 [assembly: AssemblyDescription("Fika Packets for Raid Overhaul.")]
-[assembly: AssemblyCopyright("Copyright © 2025 nameless")]
-[assembly: AssemblyFileVersion("3.0.0")]
+[assembly: AssemblyCopyright("Copyright Â© 2025 nameless")]
+[assembly: AssemblyFileVersion("3.0.1")]
 
 namespace RaidOverhaul.FikaModule
 {
