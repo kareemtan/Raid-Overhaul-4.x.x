@@ -259,8 +259,6 @@ namespace RaidOverhaul
             }
 
             _session = ClientAppUtils.GetMainApp().GetClientBackEndSession();
-
-            Logger.LogDebug("Session set");
         }
 
         private void RecreateGameObject()
